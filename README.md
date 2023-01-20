@@ -25,8 +25,6 @@ Furthermore, I have gained technical skills in **Excel/Google Sheets, SQL, R pro
 
 Check out my Credly badge: [https://lnkd.in/eD9FEHgY](https://www.credly.com/badges/bb9da0e6-7f59-49e2-a29c-98ad795bf2dc/public_url)
 
-google-data-analytics-certificate.2.png
-
-https://github.com/Rezwan66/Google-Data-Analytics-Specialization-Journey/blob/0952440a1710c638758d5637761728f1857a0cba/google-data-analytics-certificate.2.png
+![alt text](https://github.com/Rezwan66/Google-Data-Analytics-Specialization-Journey/blob/0952440a1710c638758d5637761728f1857a0cba/google-data-analytics-certificate.2.png)
 
 #googledataanalytics #dataanalyst #businessanalyst #dataanalytics #dataanalysis #data #google #internship #workingstudent #coursera #businessintelligence #datavisualization #sql #tableau #excel #rprogramming
