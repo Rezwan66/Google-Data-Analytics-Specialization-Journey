@@ -27,4 +27,6 @@ Check out my Credly badge: [https://lnkd.in/eD9FEHgY](https://www.credly.com/bad
 
 google-data-analytics-certificate.2.png
 
+https://github.com/Rezwan66/Google-Data-Analytics-Specialization-Journey/blob/0952440a1710c638758d5637761728f1857a0cba/google-data-analytics-certificate.2.png
+
 #googledataanalytics #dataanalyst #businessanalyst #dataanalytics #dataanalysis #data #google #internship #workingstudent #coursera #businessintelligence #datavisualization #sql #tableau #excel #rprogramming
